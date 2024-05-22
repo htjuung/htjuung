@@ -1,6 +1,6 @@
 ![readme.gif](https://firebasestorage.googleapis.com/v0/b/coffeeblog-2facf.appspot.com/o/resume%2Freadme.gif?alt=media&token=048f3e56-0202-4ebd-b2a2-d9ed25631d25)
 
-<h3 align="left">Greetings 👋, I'm Tanya. A enthusiastic frontend developer from Taichung.</h3>
+<h3 align="left">Greetings 👋, I'm Tanya. A enthusiastic front-end developer from Taichung.</h3>
 
 - 🔭 I previously worked as **a project manager at JIUH HENG INVESTMENTS LIMITED.**
 
