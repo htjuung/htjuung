@@ -1,4 +1,4 @@
-![readme.gif](https://firebasestorage.googleapis.com/v0/b/coffeeblog-2facf.appspot.com/o/resume%2Freadme.gif?alt=media&token=b4eea32d-53db-4f6b-8038-0d5f6fa02e77)
+![readme.gif](https://firebasestorage.googleapis.com/v0/b/coffeeblog-2facf.appspot.com/o/resume%2Freadme.gif?alt=media&token=06c7b980-81a9-4f4f-b75a-28236edab094)
 
 <h3 align="left">Greetings, I'm Tanya. A enthusiastic front-end developer from Taichung.</h3>
 
