@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **htjuung@gmail.com**
 
-- 📄 Know about my experiences [cakeresume.com](cakeresume.com)
+<!-- - 📄 Know about my experiences [cakeresume.com](cakeresume.com) -->
 
 
 <p align="left"></p>
